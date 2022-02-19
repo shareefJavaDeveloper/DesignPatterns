@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\DesignPatterns\.metadata\.plugins\org.eclipse.jdt.core
+3088181535.index
+2653512064.index

@@ -1,0 +1,11 @@
+package dp.AbstractFactory;
+
+public class ChinaMobileFactory extends MobileFactory {
+
+	@Override
+	public MobileModel produceMobile(String mobile) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

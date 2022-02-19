@@ -1,0 +1,15 @@
+package dp.Factory;
+
+public class FactoryDesignPattern {
+
+	public static void main(String[] args) {
+		
+		MobileModel mobileConfig = FactoryInstanceGenerationClass.getMobileInstance("MI");
+		
+		
+		mobileConfig.cpu();
+		mobileConfig.ram();
+		mobileConfig.price();
+	}
+
+}

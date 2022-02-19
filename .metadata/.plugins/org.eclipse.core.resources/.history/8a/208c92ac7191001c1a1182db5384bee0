@@ -1,0 +1,22 @@
+package dp.AbstractFactory;
+
+
+public class IndiaMobileFactory extends MobileFactory {
+
+	@Override
+	public MiMobile produceMobile(String mobile) {
+		
+		dp.AbstractFactory.MobileModel mobileModel = null;
+		
+		if(mobile.equalsIgnoreCase("MI")) {
+			mobileModel = new MiMobile();
+		}
+		else if (mobile.equalsIgnoreCase("Samsung")) {
+			mobileModel = new SamsungMobile();
+		}
+		
+		
+		return null ;
+	}
+
+}

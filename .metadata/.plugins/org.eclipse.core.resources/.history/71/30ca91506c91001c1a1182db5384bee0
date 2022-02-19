@@ -1,0 +1,9 @@
+package dp.Factory;
+
+public class Factory {
+	
+	public static MobileModel produceMobile(String mobile) {
+		
+	}
+
+}

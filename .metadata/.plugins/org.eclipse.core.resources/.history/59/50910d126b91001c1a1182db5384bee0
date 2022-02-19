@@ -1,0 +1,5 @@
+package dp.Factory;
+
+public abstract class MobileModel {
+
+}

@@ -1,0 +1,23 @@
+package dp.Singleton;
+
+public class SingletonDesignPattern {
+	
+	
+	int Id;
+	
+	private SingletonDesignPattern() {
+		System.out.println("This is singleton.");
+	}
+	
+
+	public static void main(String[] args) {
+		
+		SingletonDesignPattern singleton = new SingletonDesignPattern();
+		System.out.println(singleton);
+		
+		SingletonDesignPattern singleton1 = new SingletonDesignPattern();
+		System.out.println(singleton1);
+
+	}
+
+}
