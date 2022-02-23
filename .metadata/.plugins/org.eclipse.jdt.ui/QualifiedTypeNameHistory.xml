@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dp.Factory.SamsungMobile"/>
+    <fullyQualifiedTypeName name="dp.Factory.FactoryInstanceGenerationClass"/>
+    <fullyQualifiedTypeName name="dp.Factory.MobileModel"/>
+    <fullyQualifiedTypeName name="dp.Factory.MiMobile"/>
+    <fullyQualifiedTypeName name="dp.AbstractFactory.MiMobile"/>
+    <fullyQualifiedTypeName name="dp.AbstractFactory.OnePlusMobile"/>
+    <fullyQualifiedTypeName name="dp.AbstractFactory.IndiaMobileFactory"/>
+    <fullyQualifiedTypeName name="dp.AbstractFactory.MobileFactory"/>
+    <fullyQualifiedTypeName name="dp.AbstractFactory.ChinaMobileFactory"/>
+    <fullyQualifiedTypeName name="dp.AbstractFactory.SamsungMobile"/>
+    <fullyQualifiedTypeName name="dp.AbstractFactory.MobileModel"/>
+    <fullyQualifiedTypeName name="dp.Singleton.SingletonDesignPattern"/>
+</qualifiedTypeNameHistroy>
