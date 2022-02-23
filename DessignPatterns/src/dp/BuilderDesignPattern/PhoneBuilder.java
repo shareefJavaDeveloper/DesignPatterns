@@ -28,7 +28,7 @@ public class PhoneBuilder {
 	public PhoneBuilder setCost(int cost) {
 		this.cost = cost;
 		return this;
-	}
+	} 
 	
 	public Phone getPhone() {
 		return new Phone(os, ram, processor, screenSize, cost);
