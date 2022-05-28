@@ -1,6 +1,6 @@
 package dp.BuilderDesignPattern;
 
-public class BuinderDesignPattern {
+public class BuilderDesignPattern {
 	
 	/**
 	 * Builder design pattern is similar to factory design pattern.
